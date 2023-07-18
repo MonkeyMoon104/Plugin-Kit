@@ -1,0 +1,22 @@
+kit-base:
+  permission: "kit.base"
+  icon:
+    material: "GOLD"
+    display-name: "&bKIT VIP"
+  items:
+    helmet: "LEATHER_HELMET"
+    chestplate: "LEATHER_CHESTPLATE"
+    leggings: "LEATHER_LEGGINGS"
+    boots: "LEATHER_BOOTS"
+    sword: "STONE_SWORD"
+kit-vip:
+  permission: "kit.vip"
+  icon:
+    material: "DIAMOND"
+    display-name: "&bKIT VIP"
+  items:
+    helmet: "DIAMOND_HELMET"
+    chestplate: "DIAMOND_CHESTPLATE"
+    leggings: "DIAMOND_LEGGINGS"
+    boots: "DIAMOND_BOOTS"
+    sword: "DIAMOND_SWORD"

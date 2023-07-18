@@ -1,0 +1,11 @@
+name: KitPlugin
+version: '${project.version}'
+author: MonkeyMoon104
+description: plugin per i kits
+main: com.example.plugin.kit.KitPlugin
+api-version: '1.19'
+
+commands:
+  kit:
+    description: Comando per ottenere i kit
+    usage: /kit <nome-kit>
